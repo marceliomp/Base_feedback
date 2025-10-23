@@ -34,6 +34,17 @@ Para salvar a saída em um arquivo:
 python main.py examples/sample_input.json --output resultado.json
 ```
 
+Se estiver usando um ambiente que espera um servidor web (ex.: Replit) e estiver
+vendo uma página 404, execute no modo servidor para visualizar o JSON no
+navegador:
+
+```bash
+python main.py examples/sample_input.json --serve --port 8000
+```
+
+O endpoint responde em `http://localhost:8000/` e em `http://localhost:8000/avaliacoes`.
+Você pode combinar o modo servidor com `--output` para salvar e servir ao mesmo tempo.
+
 ## Estrutura do Projeto
 
 - `alvo_eval/` – pacote com a lógica de cálculo de scores, classificação e geração de alertas.
