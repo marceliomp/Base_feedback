@@ -1,0 +1,64 @@
+{
+  "avaliacoes": [
+    {
+      "colaborador": "Maria Silva",
+      "cargo": "Executiva de Contas",
+      "senioridade": "pleno",
+      "resumo_periodo": "Responsável pelo cluster Sul, liderou negociações chave com VGV de R$ 3,2M no trimestre.",
+      "notas": {
+        "valores_cultura": {
+          "postura_de_dono": {"nota": 9.5, "evidencias": ["12/03: assumiu negociação crítica sem repasse."]},
+          "fome_de_crescer": {"nota": 8.7, "evidencias": ["Abril: concluiu trilha avançada de m²."]},
+          "disciplina_para_entregar": {"nota": 8.3, "evidencias": ["Entrega do forecast semanal dentro do prazo em 11 de 12 semanas."]},
+          "transparencia_de_dados": {"nota": 9.0, "evidencias": ["Atualizou Bitrix em tempo real durante comitê de 05/05."]}
+        },
+        "entrega_resultados": {
+          "atingimento_metas": {"nota": 8.8, "evidencias": ["KPI: 110% da meta de VGV trimestral (R$ 3,2M vs R$ 2,9M)."]},
+          "qualidade_entregas": {"nota": 8.5, "evidencias": ["Zero retrabalho em propostas enviadas em maio."]}
+        },
+        "habilidades_tecnicas": {
+          "dominio_ferramentas": {"nota": 8.0, "evidencias": ["Adotou automações no Bitrix para follow-up diário."]},
+          "conhecimento_produto": {"nota": 8.6, "evidencias": ["Liderou treinamento interno sobre flows 10/45/45 em 18/04."]}
+        },
+        "habilidades_comportamentais": {
+          "comunicacao": {"nota": 9.2, "evidencias": ["NPS interno 82 no squad."]},
+          "colaboracao": {"nota": 8.9, "evidencias": ["Mentorou dois novos hunters no mês de maio."]}
+        },
+        "pontualidade_confiabilidade": {
+          "pontualidade": {"nota": 9.1, "evidencias": ["Chegada pontual em 95% das dailies no trimestre."]},
+          "assiduidade": {"nota": 9.0, "evidencias": ["Sem faltas injustificadas de fev a mai."]}
+        },
+        "ownership_comercial": {
+          "prospeccao_followup": {"nota": 8.4, "evidencias": ["Pipeline com 42 leads ativos e follow-up em 24h."]},
+          "organizacao_crm": {"nota": 8.8, "evidencias": ["Bitrix atualizado 3x por dia em abril."]}
+        },
+        "evolucao_aprendizagem": {
+          "melhoria_continua": {"nota": 8.2, "evidencias": ["Recebeu coaching externo e aplicou playbook em novas contas."]}
+        }
+      },
+      "feedback_construtivo": {
+        "forcas": [
+          "Relacionamento consultivo com clientes premium",
+          "Atualização disciplinada de dados no CRM",
+          "Capacidade de liderar treinamentos internos"
+        ],
+        "oportunidades": [
+          "Expandir presença em segmentos corporativos",
+          "Elevar conversão em follow-ups secundários",
+          "Compartilhar boas práticas em comitês cross"
+        ],
+        "plano_30_60_90": {
+          "30_dias": ["Lançar cadência de follow-up 24h - meta 95% cumprimento"],
+          "60_dias": ["Abrir 5 novas contas enterprise - VGV alvo R$ 500k"],
+          "90_dias": ["Documentar playbook regional e apresentar ao comitê"]
+        },
+        "risco_mitigacao": {
+          "risco": "Esgotamento por carga alta",
+          "plano": "Balancear carteira e distribuir contas em junho"
+        },
+        "acao_sugerida": "bonus"
+      },
+      "alertas": []
+    }
+  ]
+}
